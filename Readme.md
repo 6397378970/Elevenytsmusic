@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://files.catbox.moe/f177uk.jpg" alt="˹Elevenyts ᴍᴜꜱɪᴄ˼" width="400"/>
+  <img src="https://files.catbox.moe/8i32k2.jpg" alt="˹Light music˼" width="400"/>
   
-  # 🎵 ˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼
+  # 🎵 ˹𝑳𝑰𝑮𝑯𝑻 𝑴𝑼𝑺𝑰𝑪˼
 
   
   <p><b>A Powerful Telegram Music Player Bot</b></p>
   
-  [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/elevenyts)
-  [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/elevenytsmusic)
-  [![Telegram](https://img.shields.io/badge/Telegram-String_Session-Darkblue?style=for-the-badge&logo=telegram)](https://t.me/genStringbot)
-  [![Cloudflare](https://img.shields.io/badge/Pinger-Cloudflare-orange?style=for-the-badge&logo=cloudflare)](https://dash.cloudflare.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/anonymous_rides)
+  [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/midnight_chatclub)
+  [![Telegram](https://img.shields.io/badge/Telegram-String_Session-Darkblue?style=for-the-badge&logo=telegram)](https://t.me/pikachu_ibot)
 
 
   
@@ -139,8 +138,8 @@ bash start
 
 ## 📞 Support & Contact
 
-- **Telegram Channel**: [@Elevenyts](https://t.me/elevenyts)
-- **Support Group**: [@Elevenyts Music](https://t.me/elevenytsmusic) 
+- **Telegram Channel**: [@light_speedy](https://t.me/anonymous_rides)
+- **Support Group**: [@lightmusicibot Music](https://t.me/midnight_chatclub) 
 
 ---
 
@@ -155,8 +154,8 @@ bash start
 
 <div align="center">
   
-  ### Made with ❤️ by Artist 
+  ### Made with ❤️ by L ɪ ɢ ʜ ᴛ 
   
-  **© 2026 ˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼. All rights reserved.**
+  **© 2026 ˹LIGHT MUSIC˼. All rights reserved.**
   
 </div>
